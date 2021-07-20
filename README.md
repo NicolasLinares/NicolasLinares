@@ -1,4 +1,4 @@
-- 👋 Hi there! I am @NicolasLinares and I recently finished my degree in Computer Science at the University of Murcia, in the south east of Spain 🇪🇸.
+- 👋 Hello there! I am @NicolasLinares and I recently finished my degree in Computer Science at the University of Murcia, in the south east of Spain 🇪🇸.
 - 👀 I am interested in WEB and MOBILE development, both frontend and backend. 
 - 🧑🏻‍💻 I am currently focused on React Native, so I am working with JavaScript in the frontend to create native apps. 
 - 🔬 I have some experience in developing APIs with Laravel Lumen.
