@@ -2,6 +2,8 @@
 
 🧑🏻‍💻 **Software Engineer** based in Madrid, Spain. <br>
 🔎 Fast learner, always exploring new technologies. <br>
+🏃‍♂️ Always on the move. <br>
+
 
 <a href="https://www.linkedin.com/in/nicolas-linares-la-barba/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
