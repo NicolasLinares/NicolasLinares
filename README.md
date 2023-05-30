@@ -1,9 +1,7 @@
 # Hello there! 👋
 
-
-🧑🏻‍💻 I'm a **Full-Stack developer** working from Madrid, Spain. <br>
-🔎 Fast learner and eager to discover new technologies. <br>
-
+🧑🏻‍💻 **Software Engineer** based in Madrid, Spain. <br>
+🔎 Fast learner, always exploring new technologies. <br>
 
 <a href="https://www.linkedin.com/in/nicolas-linares-la-barba/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
